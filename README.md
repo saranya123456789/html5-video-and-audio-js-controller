@@ -1,1 +1,2 @@
-# html5-video-and-audio-js-controller
+# HTML5-Video-and-Audio-JS-Controller
+uploaling audio and videos by using audio and video controllers
